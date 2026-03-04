@@ -1,0 +1,1 @@
+# parsel-sorgu-privacy
